@@ -8,7 +8,7 @@
   - [Aurkibidea](#aurkibidea)
   - [1. Aurkezpena](#1-aurkezpena)
     - [1.1 Lan taldea](#11-lan-taldea)
-  - [2. 2026ko zifrak](#2-2026ko-zifrak)
+  - [2. 2025-2026ko zifrak](#2-2025-2026ko-zifrak)
   - [3. Lan ildoak](#3-lan-ildoak)
     - [3.1 Lanketa teorikoak](#31-lanketa-teorikoak)
     - [3.2 Pilotuak](#32-pilotuak)
@@ -25,7 +25,7 @@
 
 Atal honetan ikasturteko lantaldeko kideak eta rol nagusiak gehituko dira.
 
-## 2. 2026ko zifrak
+## 2. 2025-2026ko zifrak
 
 Atal honetan urteko adierazle nagusiak argitaratuko dira: parte-hartzea, egindako saioak, eta lortutako emaitzen laburpena.
 
